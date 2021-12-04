@@ -1,0 +1,11 @@
+.FavFilm{
+    color: rebeccapurple;
+    display: flex;
+    width: 60%;
+    border: 1px solid rgb(59, 42, 42);
+    box-shadow: 16px 21px 13px -10px rgba(57, 41, 81, 0.34);
+}
+
+.img{
+    width: 200px;
+}
